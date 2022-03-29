@@ -4,7 +4,7 @@ const shop = () => {
   document.title = `NaMa-WanWan`
   return (
     <div>
-      <h1>Hellow Li jar</h1>
+      <h1>Hello Mather Fucker</h1>
       <img className="shop-img" src="./img/42 (OneOne)/1 (1).jpg" alt="" />
       <img className="shop-img" src="./img/42 (OneOne)/1 (2).jpg" alt="" />
       <img className="shop-img" src="./img/42 (OneOne)/1 (3).jpg" alt="" />
